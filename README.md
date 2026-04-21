@@ -1,6 +1,6 @@
 LAM Research Challenge - 2025
 
-Team name : NanoMinds
+Team name : NanoMinds<br>
 Team Members :<br><br>
     Akshaya A<br>
     Sahana T<br>
